@@ -46,7 +46,7 @@
             android:value="CLIENT KEY" />
         <meta-data
             android:name="com.parse.SERVER_URL"
-            android:value="https://parse.com" />
+            android:value="http://35.189.128.196:1337" />
 
         <service android:name="com.parse.PushService" />
         <receiver android:name="com.parse.ParsePushBroadcastReceiver"
